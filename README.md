@@ -1,4 +1,4 @@
-# Explicando Predicciones y Modelos de Machine_Learning
+# Explicando Predicciones y Modelos de Machine Learning
 # Taller impartido en el V Congreso de Usuarios de R en la Universidad de La Laguna (26/Nov/2026)
 En los últimos años, se han desarrollado técnicas para la construcción de modelos predictivos y de machine learning muy complejas, en los cuales es muy difícil conocer qué variables afectan a las predicciones. Son llamadas “black boxes”, cajas negras. Por ejemplo: redes neuronales, ensemble methods (bagging, random forest, boosting), super vector machines, stacking methods, … Muchas de estas técnicas predicen muy bien, pero realmente se desconoce porqué. En este taller se recogen un conjunto de técnicas y herramientas para explorar, explicar y examinar estos modelos predictivos complejos. Son métodos agnósticos porque pueden ser aplicados a cualquier clase de modelo predictivo, ya que no es necesario conocer el modelo, ni cómo ha sido construido, lo único que interesa es saber cómo predice. Son técnicas que pretenden explorar las relaciones aprendidas por el modelo, y explicar los factores que influyen en las decisiones que toma el modelo. 
 
